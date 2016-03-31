@@ -1,7 +1,7 @@
 {
   "name": "grunt-alan-replace",
   "description": "replace file content",
-  "version": "0.1.2",
+  "version": "0.1.7",
   "homepage": "https://github.com/Allen-Wei/grunt-alan-replace",
   "author": {
     "name": "Alan Wei",
